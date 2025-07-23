@@ -24,7 +24,7 @@ SQL script with queries to create analytics-ready views.
 
 newark_airport_2016.csv: NOAA weather data from Newark Airport for 2016.
 
-JC-2016xx-citibike-tripdata.csv: Twelve monthly Citi Bike data files from Jersey City (replace "xx" with the corresponding month).
+JC-2016-citibike-tripdata.csv: Twelve monthly Citi Bike data files from Jersey City
 
 ## data-dictionaries/
 
